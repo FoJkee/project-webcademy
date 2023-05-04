@@ -1,0 +1,29 @@
+.portfolio {
+    background-color: darksalmon;
+    padding-top: 80px;
+    padding-bottom: 115px;
+}
+
+.portfolio__header {
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 130%;
+    text-align: center;
+    color: black;
+}
+
+.card__img {}
+
+.card__title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.card__title>p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #000000;
+}
