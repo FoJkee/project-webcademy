@@ -1,0 +1,11 @@
+.button__project {
+    width: 301px;
+    height: 61px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 130%;
+    text-transform: uppercase;
+    color: #275BEC;
+    border: 3px solid #275BEC;
+    border-radius: 50px;
+}
