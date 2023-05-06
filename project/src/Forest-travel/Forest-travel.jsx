@@ -1,6 +1,7 @@
 import Button__travel from './button/Button';
 import forestBg from './forestBg.jpg';
 import './Forest-travel.css';
+import Footer from '../Footer/Footer';
 
 const Forest__travel = () => {
     return (
@@ -9,7 +10,6 @@ const Forest__travel = () => {
                 <h1 className='project__title'>
                     Верстка сайта «Форест-тревел»
                 </h1>
-
                 <div className='project__img'>
                     <img src={forestBg} alt='forest-travel' />
                 </div>
@@ -27,6 +27,7 @@ const Forest__travel = () => {
                     <Button__travel />
                 </div>
             </div>
+            <Footer />
         </div>
     );
 };

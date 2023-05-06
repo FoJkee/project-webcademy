@@ -1,6 +1,5 @@
 import forest from './forest.jpg';
 import './Forest.css';
-
 const Forest = () => {
     return (
         <div className='card'>
